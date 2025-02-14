@@ -1,0 +1,1 @@
+I have created a School website name Parul Academy . I had Used html , css , bootstrap and Javascript for coding this website . I had added the hover effect in every link must check that effect . Spereat admission form is there . Singing and signup button is also there . 
